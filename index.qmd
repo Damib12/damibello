@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: profile.png
 ---
 
 :::{#me}
@@ -13,6 +13,7 @@ about:
 ## Education
 
 ## Experience
+resume.pdf
 
 :::
 

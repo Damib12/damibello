@@ -13,7 +13,9 @@ about:
 ## Education
 
 ## Experience
-resume.pdf
+[Download my resume](Resume.pdf)
+
+
 
 :::
 

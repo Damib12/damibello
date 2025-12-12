@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+  resources: Resume.pdf
 website:
   title: "Dami Bello's Webpage"
   navbar:

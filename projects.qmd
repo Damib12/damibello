@@ -7,7 +7,8 @@ title: "Projects"
 
 This project analyzes survey data to explore patterns in responses across demographic groups. Using R, I cleaned the data, calculated summary statistics, and created visualizations to communicate key findings clearly.
 
-[View project on GitHub]("C:\Users\Damib\OneDrive\Documents\DACSS604\damibello\projects.qmd.docx")
+[View project on GitHub](https://github.com/Damib12/damibello)
+
 
 
 

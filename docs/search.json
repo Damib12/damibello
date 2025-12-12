@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html#survey-data-analysis-project",
+    "href": "projects.html#survey-data-analysis-project",
+    "title": "Projects",
+    "section": "Survey Data Analysis Project",
+    "text": "Survey Data Analysis Project\nThis project analyzes survey data to explore patterns in responses across demographic groups. Using R, I cleaned the data, calculated summary statistics, and created visualizations to communicate key findings clearly.\nView project on GitHub"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",

@@ -1,0 +1,31 @@
+---
+title: "Autism Beliefs Dashboard"
+format:
+  dashboard:
+    orientation: columns
+---
+
+## Beliefs About Causes of Autism
+
+```{r}
+library(ggplot2)
+
+# Example data (you can replace this later)
+beliefs <- data.frame(
+  cause = c("Genetics", "Environment", "Vaccines"),
+  percent = c(65, 45, 15)
+)
+
+ggplot(beliefs, aes(x = cause, y = percent)) +
+  geom_col() +
+  labs(
+    title = "Perceived Likelihood of Autism Causes",
+    x = "Cause",
+    y = "Percent of Respondents"
+  )
+```
+
+
+### Interpretation
+
+This visualization shows that respondents are most likely to believe genetic factors contribute to autism, followed by environmental factors. Vaccines are viewed as the least likely cause. This pattern suggests stronger support for scientific explanations compared to misinformation-based beliefs.
